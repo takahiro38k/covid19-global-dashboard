@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name_ja": "北海道",
+    "name_en": "Hokkaido",
+    "lat": 43.46722222,
+    "lng": 142.8277778,
+    "population": 5248552,
+    "last_updated": {
+      "cases_date": 20200915,
+      "deaths_date": 20200915,
+      "pcr_date": 20200915,
+      "hospitalize_date": 20200915,
+      "severe_date": 20200915,
+      "discharge_date": 20200915,
+      "symptom_confirming_date": 20200915
+    },
+    "cases": 1876,
+    "deaths": 106,
+    "pcr": 49898,
+    "hospitalize": 60,
+    "severe": 2,
+    "discharge": 1710,
+    "symptom_confirming": 0
+  }
+]

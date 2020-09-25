@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Firebase
+.firebase
+.firebaserc
+firebase.json
+
+favicon_package_v0.16.zip

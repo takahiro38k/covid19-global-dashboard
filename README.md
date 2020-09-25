@@ -1,3 +1,44 @@
+## COVID-19 Live Dashboard とは？
+
+新型コロナウイルス感染症（COVID-19）の累計人数を、グラフで表示する Web アプリケーションです。<br />
+日本国内と世界各国、それぞれの累計を確認できます。
+
+COVID-19 Live Dashboard<br />
+https://covid-19-live-dashboard-38k.web.app/
+
+## 主な使用技術
+
+### 全体構成
+
+React: https://ja.reactjs.org/<br />
+TypeScript: https://www.typescriptlang.org/<br />
+Create React App: https://create-react-app.dev/
+
+### 状態管理
+
+Redux Toolkit: https://redux-toolkit.js.org/
+
+### デザイン
+
+styled-components: https://styled-components.com/<br />
+Material-UI: https://material-ui.com/<br />
+react-chartjs-2: https://github.com/jerairrest/react-chartjs-2
+
+### ホスティング
+
+Firebase / Hosting: https://firebase.google.com/docs/hosting?hl=ja
+
+## データ参照元（API）
+
+日本国内: https://github.com/ryo-ma/covid19-japan-web-api<br />
+世界各国: https://covid19api.com/
+
+<br />
+<br />
+※以降は、Create React App にデフォルトで記載されている README.md の内容です。
+
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts

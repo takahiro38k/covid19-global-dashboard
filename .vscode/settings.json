@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#673AB7",
+    "statusBar.background": "#673AB7"
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 800,
+  "typescript.validate.enable": false
+}
